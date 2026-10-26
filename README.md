@@ -1,2 +1,2 @@
 # tiro-releases
-Releases and the update feed of Tiro, a dictation app for the macOS menu bar
+Releases of Tiro, a dictation app for the macOS menu bar. Its update feed is in [faciledictu/updates](https://github.com/faciledictu/updates), served at https://updates.eloquentcat.com/tiro/appcast.xml
